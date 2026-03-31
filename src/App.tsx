@@ -206,7 +206,7 @@ export default function App() {
           <div className="relative inline-block mb-5">
             <div className="w-28 h-28 rounded-full p-1 bg-gradient-to-br from-accent-1 to-accent-2 shadow-[0_0_30px_rgba(124,58,237,0.5)]">
               <img 
-                src="https://ui-avatars.com/api/?name=INNOVATEX+4.0&background=7c3aed&color=fff&size=200&bold=true" 
+                src="avatar.png" 
                 alt="Profile" 
                 className="w-full h-full rounded-full object-cover border-4 border-bg-primary"
               />
